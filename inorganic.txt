@@ -1,0 +1,29 @@
+REDOX
+Redox reactions are comprised of two parts, a reduced half and an oxidized half, that always occur together. The reduced half gains electrons and the oxidation number decreases, while the oxidized half loses electrons and the oxidation number increases.
+   Zn+2H+-->Zn2++H2(2) 
+The oxidation state of H changes from +1 to 0, and the oxidation state of Zn changes from 0 to +2. Hence, H+ ion is reduced and acts as the oxidizing agent.The oxidation state of H changes from +1 to 0, and the oxidation state of Zn changes from 0 to +2. Hence, Zn is oxidized and acts as the reducing agent.
+NEUTRALIZATION
+Neutralization is a type of chemical reaction in which a strong acid and strong base react with each other to form water and salt. 
+HCl+NaOH-->NaCl+H2O
+COMBINATION
+Combination Reactions:Two or more reactants form one product in a combination reaction. An example of a combination reaction is the formation of sulfur dioxide when sulfur is burned in air:
+S (s) + O2 (g) --> SO2 (g)
+DECOMPOSITION
+Decomposition Reactions:In a decomposition reaction, a compound breaks down into two or more substances. Decomposition usually results from electrolysis or heating. An example of a decomposition reaction is the breakdown of mercury (II) oxide into its component elements.
+2HgO (s) + heat --> 2Hg (l) + O2 (g)
+SINGLE-DISPLACEMENT-REACTION
+Single Displacement Reactions:A single displacement reaction is characterized by an atom or ion of a single compound replacing an atom of another element. An example of a single displacement reaction is the displacement of copper ions in a copper sulfate solution by zinc metal, forming zinc sulfate:
+Zn (s) + CuSO4 (aq) --> Cu (s) + ZnSO4 (aq)
+Single displacement reactions are often subdivided into more specific categories (e.g., redox reactions).
+DOUBLE-DISPLACEMENT-REACTION
+Double Displacement ReactionsDouble displacement reactions also may be called metathesis reactions. In this type of reaction, elements from two compounds displace each other to form new compounds. Double displacement reactions may occur when one product is removed from the solution as a gas or precipitate or when two species combine to form a weak electrolyte that remains undissociated in solution. An example of a double displacement reaction occurs when solutions of calcium chloride and silver nitrate are reacted to form insoluble silver chloride in a solution of calcium nitrate.
+CaCl2 (aq) + 2 AgNO3 (aq) --> Ca(NO3)2 (aq) + 2 AgCl (s)
+A neutralization reaction is a specific type of double displacement reaction that occurs when an acid reacts with a base, producing a solution of salt and water. An example of a neutralization reaction is the reaction of hydrochloric acid and sodium hydroxide to form sodium chloride and water:
+HCl (aq) + NaOH (aq) --> NaCl (aq) + H2O (l).
+COMPLETE-COMBUSTION
+Complete Combustion - Also called "clean combustion", clean combustion is oxidation of a hydrocarbon that produces only carbon dioxide and water. An example of clean combustion is burning of candle wax, where the heat from the wick vaporizes wax (a hydrocarbon), which reacts with oxygen in the air to release carbon dioxide and water. Ideally, all the wax burns so nothing remains once the candle is consumed. The water vapor and carbon dioxide dissipate into air.
+hydrocarbon + oxygen --> carbon dioxide + water
+CH4(g) + 2 O2(g) --> CO2(g) + 2 H2O(g)
+INCOMPLETE-COMBUSTION
+Incomplete Combustion - Also called "dirty combustion", incomplete combustion is hydrocarbon oxidation that produces carbon monoxide and/or carbon (soot) in addition to carbon dioxide. An example of incomplete combustion would be burning coal, where a lot of soot and carbon monoxide is released. Many of the fossil fuels burn incompletely, releasing waste products.
+STOP
